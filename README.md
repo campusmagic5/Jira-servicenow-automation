@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Jira to ServiceNow Incident Automation
 
 This project demonstrates how to **automatically create a ServiceNow Incident** whenever a **new Jira issue** is created — using **Python**, **Flask**, the **Jira Webhook**, and **ServiceNow REST API**.
@@ -42,7 +42,7 @@ This project demonstrates how to **automatically create a ServiceNow Incident** 
 ```bash
 git clone <your-repo-url>
 cd <your-repo-folder>
-````
+
 
 ### 2. Create a virtual environment (optional but recommended)
 

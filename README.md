@@ -61,15 +61,24 @@ pip install -r requirements.txt
 ### 4. Add your configuration
 
 Add .env file: 
+
 # Jira Config
+
 JIRA_INSTANCE=https://your-site.atlassian.net
+
 JIRA_USER=your-email@example.com
+
 JIRA_API_TOKEN=your-jira-api-token
 
+
 # ServiceNow Config
+
 SNOW_INSTANCE=https://devXXXXX.service-now.com
-SNOW_USER=admin
+
+SNOW_USER=your-snow-username
+
 SNOW_PASSWORD=your-snow-password
+
 SNOW_TABLE=incident
 
 ---

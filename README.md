@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 Add .env file: 
 
-# Jira Config
+Jira Config
 
 JIRA_INSTANCE=https://your-site.atlassian.net
 
@@ -71,7 +71,7 @@ JIRA_USER=your-email@example.com
 JIRA_API_TOKEN=your-jira-api-token
 
 
-# ServiceNow Config
+ServiceNow Config
 
 SNOW_INSTANCE=https://devXXXXX.service-now.com
 

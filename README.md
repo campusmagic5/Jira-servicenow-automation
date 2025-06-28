@@ -16,13 +16,13 @@ This project demonstrates how to **automatically create a ServiceNow Incident** 
 
 ## ✅ Prerequisites
 
-### 1. Jira Cloud (Free)
+# 1. Jira Cloud (Free)
 - [Sign up for Jira Cloud](https://www.atlassian.com/software/jira/free) (up to 10 users).
 - Create a project (e.g., **BUG**).
 - Generate a Jira API Token:
   - [Create API Token](https://id.atlassian.com/manage/api-tokens)
 
-### 2. ServiceNow Developer Instance (Free)
+# 2. ServiceNow Developer Instance (Free)
 - [Sign up for a free Personal Developer Instance (PDI)](https://developer.servicenow.com/).
 - Request an instance and note:
   - Instance URL: `https://devXXXXX.service-now.com`
